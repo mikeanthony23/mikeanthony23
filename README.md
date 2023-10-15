@@ -1,5 +1,3 @@
-![](https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeanthony23)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeanthony23&show_icons=true)  
